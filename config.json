@@ -1,0 +1,59 @@
+{
+    "SIGLAS": {
+        "ARAGUAINA": "ARG",
+        "BAURU": "BAU",
+        "ANANINDEUA": "BEL",
+        "BELO HORIZONTE": "BHZ",
+        "BRASÍLIA": "BSB",
+        "CUIABÁ": "CBA",
+        "CAMPO GRANDE": "CGR",
+        "GOIÂNIA": "GYN",
+        "LONDRINA": "LON",
+        "PORTO ALEGRE": "POA",
+        "RIBEIRÃO PRETO": "RPT",
+        "SÃO JOSÉ DO RIO PRETO": "SJP",
+        "SÃO LUIZ": "SLZ",
+        "SÃO PAULO": "SPO",
+        "UBERABA": "URA",
+        "VITÓRIA": "VIT"
+    },
+    "LINHA_INICIAL_DIGITAL": 12,
+    "LINHA_INICIAL_CONTROLE": 21,
+    "LINHA_FINAL_CONTROLE": 30,
+    "COLUNA_PRODUCOES": "E",
+    "COLUNA_SERIAL": "E",
+    "COLUNA_DPTO": "A",
+    "MODELO_IMPRESSORAS": [
+        "8952",
+        "8912",
+        "6182",
+        "8157",
+        "5200",
+        "7460",
+        "5452",
+        "C711",
+        "5652",
+        "6202"
+    ],
+    "TOTAIS_IMP_SHEET": 21,
+    "LINHA_INICIAL_TOTAIS_IMP": 3,
+    "COLUNA_ESQUERDA_TOTAIS_IMP": {
+        "ID": "A",
+        "SERIAL": "B",
+        "TOTAL": "C"
+    },
+    "COLUNA_MEIO_TOTAIS_IMP": {
+        "ID": "D",
+        "SERIAL": "E",
+        "TOTAL": "F"
+    },
+    "COLUNA_DIREITA_TOTAIS_IMP": {
+        "ID": "G",
+        "SERIAL": "H",
+        "TOTAL": "I"
+    },
+    "COLUNA_ID_TOTAIS_IMP": ["A", "D", "G"],
+    "COLUNA_SERIAL_TOTAIS_IMP": ["B", "E", "H"],
+    "COLUNA_TOTAL_TOTAIS_IMP": ["C", "F", "I"]
+
+}
